@@ -1,0 +1,15 @@
+{
+    "name": "lp/testimonials",
+    "description": "this is a function for add testimonials from the back-end and the display on the front-end",
+    "autoload": {
+        "psr-4": {
+            "Lp\\Testimonials\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maluka Thapelo"
+        }
+    ],
+    "require": {}
+}
